@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c568c2d.chunk.css",
+    "main.js": "/static/js/main.edf9270e.chunk.js",
+    "main.js.map": "/static/js/main.edf9270e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ad2abda8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ad2abda8.js.map",
+    "static/js/2.54ea407c.chunk.js": "/static/js/2.54ea407c.chunk.js",
+    "static/js/2.54ea407c.chunk.js.map": "/static/js/2.54ea407c.chunk.js.map",
+    "static/js/3.b85ad1aa.chunk.js": "/static/js/3.b85ad1aa.chunk.js",
+    "static/js/3.b85ad1aa.chunk.js.map": "/static/js/3.b85ad1aa.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4c568c2d.chunk.css.map": "/static/css/main.4c568c2d.chunk.css.map",
+    "static/js/2.54ea407c.chunk.js.LICENSE.txt": "/static/js/2.54ea407c.chunk.js.LICENSE.txt",
+    "static/media/ds-logo.f3508ffe.png": "/static/media/ds-logo.f3508ffe.png",
+    "static/media/estilos.css": "/static/media/mini-img.7c090f5a.png",
+    "static/media/portifolio-inicio-imagem.9939517a.png": "/static/media/portifolio-inicio-imagem.9939517a.png",
+    "static/media/switch8.b12917e5.png": "/static/media/switch8.b12917e5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad2abda8.js",
+    "static/js/2.54ea407c.chunk.js",
+    "static/css/main.4c568c2d.chunk.css",
+    "static/js/main.edf9270e.chunk.js"
+  ]
+}
